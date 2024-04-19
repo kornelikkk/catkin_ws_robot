@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: aruco
+Description: Description of aruco
+Version: 3.1.4
+Cflags: -I/home/ubuntu/catkin_ws/src/aruco/include
+Libs: -L${prefix}/lib -laruco
+Requires: 
